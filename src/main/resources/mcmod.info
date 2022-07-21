@@ -1,0 +1,16 @@
+[
+{
+  "modid": "VersionDisplayMod",
+  "name": "Version Display Mod",
+  "description": "Shows the current version number in the top-left of the screen, like the Alpha and Beta versions of Minecraft! For Jayden.",
+  "version": "1.8.9.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rodrigo Davila Castillo (gataria)"],
+  "credits": "Thank you wehavecookies for making the 1.11 example mod and videos that helped me make this!",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
